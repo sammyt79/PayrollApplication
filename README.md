@@ -28,4 +28,5 @@ o	Weekly salary
 •	Add each employee to the list after you have computed that employee’s salary.
 
 
-PayrollApplication\src to view the code
+To run the program
+PayrollApplication/dist/PayrollApplication3.jar
